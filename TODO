@@ -1,0 +1,5 @@
+. Make this usable by people other than me
+  . "Exclude" is optional
+  . Trailing dot is optional
+  . Webapp?
+. Split into chunks by cube face instead of fixed chunk size
