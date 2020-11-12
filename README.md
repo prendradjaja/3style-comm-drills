@@ -21,9 +21,9 @@ Can be customized changing the `const selectedOptions = ...` line in `main.js`.
 Various options are available. All are required except when they're ignored.
 
 - **set:** A | B | … | all
-    - Which set to drill
+    - Which set to drill, or `all` to drill everything
 - **direction:** forward-only | inverse-only | mixed
-    - **Ignored if** set is "all"
+    - **Ignored if** set is `all`
     - Whether to drill e.g. AB AC AD or to allow BA CA DA. "Forward" is defined by which set you're drilling: If you're drilling A, then AB is forward, and if you're drilling B, then BA is forward.
 - **order:** random | alphabetical
     - Whether to drill random comms or go through all of them in order.
