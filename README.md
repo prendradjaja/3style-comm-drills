@@ -10,7 +10,9 @@ cd 3style-comm-drills
 
 npm install
 
-# Create raw-sheet.js
+# Create raw-sheet.js.
+# You can fill this in with your own comms as long as the format matches.
+# The columns "Pair" and "Commutator" are required. Extra columns are allowed and ignored.
 cp example-raw-sheet.js raw-sheet.js
 
 node main.js
