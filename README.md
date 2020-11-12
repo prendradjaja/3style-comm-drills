@@ -16,6 +16,8 @@ npm install
 cp example-raw-sheet.js raw-sheet.js
 
 node main.js
+
+# See example output below
 ```
 
 Can be customized changing the `const selectedOptions = ...` line in `main.js`.
