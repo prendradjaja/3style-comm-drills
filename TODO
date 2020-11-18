@@ -4,3 +4,4 @@
 . Webapp
 . Choose multiple sets together (direction is ignored if doing multiple sets)
 . Split into chunks by cube face instead of fixed chunk size
+. Custom sequences (user inputs letter pairs)
